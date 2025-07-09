@@ -80,6 +80,7 @@ SES 的 Reputation 指標可以幫助你了解寄信品質，包括：
    - **Reputation status（聲譽狀態）**：帳戶整體寄信健康狀態（如 Healthy、Warning、At risk）。
    - **Account status（帳戶狀態）**：帳戶目前是否可正常寄信。
    - **Suppression list（抑制名單）**：被系統自動封鎖、不再寄信的收件人清單。
+   - **View in CloudWatch**：點擊這個按鈕可以在 AWS CloudWatch 服務中查看更詳細的歷史數據與趨勢圖，並可自訂查詢的時間區間，方便進行進階監控與分析。
 
 ---
 
